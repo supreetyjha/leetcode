@@ -1,36 +1,54 @@
-public class Solution {
+class Solution {
     public int minFlips(String s) {
         int n = s.length();
-        String str = s + s; // Handles circular shifts
-        
-        // Target patterns
-        StringBuilder alt1 = new StringBuilder();
-        StringBuilder alt2 = new StringBuilder();
-        for (int i = 0; i < str.length(); i++) {
-            alt1.append(i % 2 == 0 ? '0' : '1');
-            alt2.append(i % 2 == 0 ? '1' : '0');
-        }
-        
-        int diff1 = 0, diff2 = 0;
-        int minFlips = Integer.MAX_VALUE;
-        
-        // Sliding window of size n
-        for (int i = 0; i < str.length(); i++) {
-            if (str.charAt(i) != alt1.charAt(i)) diff1++;
-            if (str.charAt(i) != alt2.charAt(i)) diff2++;
-            
-            // Remove the character sliding out of the window
-            if (i >= n) {
-                if (str.charAt(i - n) != alt1.charAt(i - n)) diff1--;
-                if (str.charAt(i - n) != alt2.charAt(i - n)) diff2--;
+        int[] start0 = new int[n];
+        int[] start1 = new int[n];
+        start0[0] = s.charAt(0) - '0';
+        start1[0] = ((s.charAt(0) - '0') + 1) % 2;
+        for (int i=1; i<n; i++)
+        {
+            int d = s.charAt(i) - '0';
+            if (i%2==0)
+            {
+                if (d==0)
+                {
+                    start0[i] = start0[i-1];
+                    start1[i] = start1[i-1] + 1;
+                }
+                else
+                {
+                    start0[i] = start0[i-1] + 1;
+                    start1[i] = start1[i-1];
+                }
             }
-            
-            // Record minimum once window reaches length n
-            if (i >= n - 1) {
-                minFlips = Math.min(minFlips, Math.min(diff1, diff2));
+            else
+            {
+                if (d==0)
+                {
+                    start0[i] = start0[i-1] + 1;
+                    start1[i] = start1[i-1];
+                }
+                else
+                {
+                    start0[i] = start0[i-1];
+                    start1[i] = start1[i-1] + 1;
+                }
             }
         }
-        
-        return minFlips;
+
+        int res = Math.min(start0[n-1], start1[n-1]);
+        if (n%2==0) return res;
+        for (int i=0; i<n-1; i++)
+        {
+            int left = start0[i];
+            int right = start1[n-1] - start1[i];
+            res = Math.min(res, left+right);
+
+            left = start1[i];
+            right = start0[n-1] - start0[i];
+            res = Math.min(res, left+right);
+        }
+
+        return res;
     }
 }
