@@ -16,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/supreetyjha/leetcode/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
