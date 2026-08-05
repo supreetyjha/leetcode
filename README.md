@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/supreetyjha/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/supreetyjha/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/supreetyjha/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/supreetyjha/leetcode/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
