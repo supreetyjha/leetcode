@@ -16,6 +16,7 @@
 | [0904-fruit-into-baskets](https://github.com/supreetyjha/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/supreetyjha/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/supreetyjha/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/supreetyjha/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -23,6 +24,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/supreetyjha/leetcode/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
@@ -51,6 +53,7 @@
 | [0904-fruit-into-baskets](https://github.com/supreetyjha/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/supreetyjha/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/supreetyjha/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/supreetyjha/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
 |  |
@@ -59,6 +62,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/supreetyjha/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/supreetyjha/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/supreetyjha/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3731-find-missing-elements](https://github.com/supreetyjha/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -73,4 +77,5 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/supreetyjha/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/supreetyjha/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
