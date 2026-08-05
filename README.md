@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/supreetyjha/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/supreetyjha/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -78,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
 | [3731-find-missing-elements](https://github.com/supreetyjha/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -94,4 +96,16 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/supreetyjha/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
