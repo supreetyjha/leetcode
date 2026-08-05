@@ -14,6 +14,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/supreetyjha/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/supreetyjha/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/supreetyjha/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/supreetyjha/leetcode/tree/master/3731-find-missing-elements) |
@@ -48,6 +49,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/supreetyjha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/supreetyjha/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/supreetyjha/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/supreetyjha/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/supreetyjha/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/supreetyjha/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
@@ -56,6 +58,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/supreetyjha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/supreetyjha/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/supreetyjha/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/supreetyjha/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [3731-find-missing-elements](https://github.com/supreetyjha/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -68,5 +71,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/supreetyjha/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/supreetyjha/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
