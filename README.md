@@ -17,6 +17,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/supreetyjha/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/supreetyjha/leetcode/tree/master/0055-jump-game) |
+| [0283-move-zeroes](https://github.com/supreetyjha/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/supreetyjha/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
@@ -107,6 +108,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/supreetyjha/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
