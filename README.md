@@ -20,6 +20,7 @@
 | [0055-jump-game](https://github.com/supreetyjha/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/supreetyjha/leetcode/tree/master/0057-insert-interval) |
 | [0283-move-zeroes](https://github.com/supreetyjha/leetcode/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/supreetyjha/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/supreetyjha/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/supreetyjha/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/supreetyjha/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/supreetyjha/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/supreetyjha/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -90,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/supreetyjha/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
 | [3731-find-missing-elements](https://github.com/supreetyjha/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -118,6 +121,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/supreetyjha/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/supreetyjha/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/supreetyjha/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/supreetyjha/leetcode/tree/master/0860-lemonade-change) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/supreetyjha/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
