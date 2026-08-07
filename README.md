@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/supreetyjha/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/supreetyjha/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
@@ -38,6 +39,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/supreetyjha/leetcode/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/supreetyjha/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -107,6 +109,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/supreetyjha/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/supreetyjha/leetcode/tree/master/0860-lemonade-change) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/supreetyjha/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
