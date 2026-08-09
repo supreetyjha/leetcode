@@ -30,6 +30,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/supreetyjha/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/supreetyjha/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/supreetyjha/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/supreetyjha/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/supreetyjha/leetcode/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/supreetyjha/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -50,6 +52,7 @@
 | [0055-jump-game](https://github.com/supreetyjha/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/supreetyjha/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/supreetyjha/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/supreetyjha/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -57,14 +60,17 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 ## Sliding Window
 |  |
@@ -108,6 +114,7 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/supreetyjha/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/supreetyjha/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/supreetyjha/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Counting
