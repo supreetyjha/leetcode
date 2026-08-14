@@ -11,6 +11,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/supreetyjha/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/supreetyjha/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/supreetyjha/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/supreetyjha/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/supreetyjha/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/supreetyjha/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
@@ -87,6 +88,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/supreetyjha/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/supreetyjha/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/supreetyjha/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/supreetyjha/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/supreetyjha/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/supreetyjha/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/supreetyjha/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/supreetyjha/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
