@@ -7,16 +7,16 @@ class Solution {
             if(ratings[i]==ratings[i-1]){ //straight line
                 sum+=1;
                 i++;
-                
+                continue;
             }
             int peak=1;
-            while(i<n && ratings[i]>ratings[i-1]){
+            while(i<n && ratings[i]>ratings[i-1]){ //up
                 peak+=1;
                 sum+=peak;
                 i++;
             }
            int  down=1;
-            while(i<n && ratings[i]<ratings[i-1]){
+            while(i<n && ratings[i]<ratings[i-1]){ //down
                 sum+=down;
                 i++;
                 down+=1;
