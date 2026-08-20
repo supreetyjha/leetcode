@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/supreetyjha/leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/supreetyjha/leetcode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/supreetyjha/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/supreetyjha/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/supreetyjha/leetcode/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/supreetyjha/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/supreetyjha/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
@@ -219,4 +221,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/supreetyjha/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/supreetyjha/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
