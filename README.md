@@ -40,6 +40,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/supreetyjha/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1563-stone-game-v](https://github.com/supreetyjha/leetcode/tree/master/1563-stone-game-v) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/supreetyjha/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/supreetyjha/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/supreetyjha/leetcode/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/supreetyjha/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/supreetyjha/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -57,6 +58,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/supreetyjha/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/supreetyjha/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/supreetyjha/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/supreetyjha/leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/supreetyjha/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -74,6 +76,7 @@
 | [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/supreetyjha/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/supreetyjha/leetcode/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/supreetyjha/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/supreetyjha/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
@@ -83,6 +86,7 @@
 | [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/supreetyjha/leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/supreetyjha/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/supreetyjha/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/supreetyjha/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -90,12 +94,14 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/supreetyjha/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/supreetyjha/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/supreetyjha/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/supreetyjha/leetcode/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
@@ -152,6 +158,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/supreetyjha/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/supreetyjha/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/supreetyjha/leetcode/tree/master/1872-stone-game-viii) |
 ## Counting
 |  |
 | ------- |
