@@ -249,4 +249,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/supreetyjha/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/supreetyjha/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
