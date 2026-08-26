@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/supreetyjha/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/supreetyjha/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/supreetyjha/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/supreetyjha/leetcode/tree/master/0055-jump-game) |
@@ -125,6 +126,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/supreetyjha/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/supreetyjha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/supreetyjha/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/supreetyjha/leetcode/tree/master/0424-longest-repeating-character-replacement) |
