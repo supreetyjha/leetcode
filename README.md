@@ -46,6 +46,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/supreetyjha/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/supreetyjha/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/supreetyjha/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/supreetyjha/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/supreetyjha/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/supreetyjha/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/supreetyjha/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -197,6 +198,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/supreetyjha/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/supreetyjha/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/supreetyjha/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/supreetyjha/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/supreetyjha/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/supreetyjha/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/supreetyjha/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
