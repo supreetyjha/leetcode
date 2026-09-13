@@ -37,6 +37,7 @@
 | [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/supreetyjha/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/supreetyjha/leetcode/tree/master/0622-design-circular-queue) |
+| [0835-image-overlap](https://github.com/supreetyjha/leetcode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/supreetyjha/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/supreetyjha/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -321,6 +322,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/supreetyjha/leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/supreetyjha/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
