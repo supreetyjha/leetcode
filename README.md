@@ -37,6 +37,7 @@
 | [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/supreetyjha/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/supreetyjha/leetcode/tree/master/0622-design-circular-queue) |
+| [0739-daily-temperatures](https://github.com/supreetyjha/leetcode/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/supreetyjha/leetcode/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/supreetyjha/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
@@ -284,6 +285,7 @@
 | [0225-implement-stack-using-queues](https://github.com/supreetyjha/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/supreetyjha/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/supreetyjha/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/supreetyjha/leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -349,4 +351,8 @@
 | [0225-implement-stack-using-queues](https://github.com/supreetyjha/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/supreetyjha/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/supreetyjha/leetcode/tree/master/0622-design-circular-queue) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/supreetyjha/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
