@@ -286,6 +286,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/supreetyjha/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/supreetyjha/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/supreetyjha/leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/supreetyjha/leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -345,6 +346,7 @@
 | [0225-implement-stack-using-queues](https://github.com/supreetyjha/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/supreetyjha/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/supreetyjha/leetcode/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/supreetyjha/leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -355,4 +357,9 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/supreetyjha/leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/supreetyjha/leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/supreetyjha/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
