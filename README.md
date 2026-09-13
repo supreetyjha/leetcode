@@ -280,6 +280,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/supreetyjha/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/supreetyjha/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/supreetyjha/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/supreetyjha/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/supreetyjha/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
@@ -337,11 +338,13 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/supreetyjha/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/supreetyjha/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/supreetyjha/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/supreetyjha/leetcode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/supreetyjha/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/supreetyjha/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/supreetyjha/leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
