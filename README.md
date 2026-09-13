@@ -278,6 +278,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/supreetyjha/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/supreetyjha/leetcode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/supreetyjha/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -329,4 +330,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/supreetyjha/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/supreetyjha/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
