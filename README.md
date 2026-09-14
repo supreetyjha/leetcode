@@ -74,6 +74,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/supreetyjha/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/supreetyjha/leetcode/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/supreetyjha/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/supreetyjha/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -365,4 +366,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/supreetyjha/leetcode/tree/master/0901-online-stock-span) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/supreetyjha/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
