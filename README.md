@@ -81,6 +81,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/supreetyjha/leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/supreetyjha/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/supreetyjha/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/supreetyjha/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/supreetyjha/leetcode/tree/master/2029-stone-game-ix) |
@@ -105,6 +106,7 @@
 | [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/supreetyjha/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/supreetyjha/leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/supreetyjha/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/supreetyjha/leetcode/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/supreetyjha/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/supreetyjha/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -199,6 +201,7 @@
 | [1140-stone-game-ii](https://github.com/supreetyjha/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/supreetyjha/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/supreetyjha/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/supreetyjha/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/supreetyjha/leetcode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/supreetyjha/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -309,6 +312,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/supreetyjha/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/supreetyjha/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Database
 |  |
