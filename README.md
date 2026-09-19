@@ -9,6 +9,7 @@
 | [0020-valid-parentheses](https://github.com/supreetyjha/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/supreetyjha/leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/supreetyjha/leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/supreetyjha/leetcode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/supreetyjha/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/supreetyjha/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/supreetyjha/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/supreetyjha/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/supreetyjha/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/supreetyjha/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/supreetyjha/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/supreetyjha/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
