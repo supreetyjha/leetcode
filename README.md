@@ -13,6 +13,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/supreetyjha/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/supreetyjha/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/supreetyjha/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/supreetyjha/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/supreetyjha/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/supreetyjha/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/supreetyjha/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -308,6 +309,7 @@
 | [0678-valid-parenthesis-string](https://github.com/supreetyjha/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/supreetyjha/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/supreetyjha/leetcode/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/supreetyjha/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
