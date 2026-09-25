@@ -14,6 +14,7 @@
 | [0678-valid-parenthesis-string](https://github.com/supreetyjha/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/supreetyjha/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/supreetyjha/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/supreetyjha/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/supreetyjha/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/supreetyjha/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/supreetyjha/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -181,6 +182,7 @@
 | [0904-fruit-into-baskets](https://github.com/supreetyjha/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/supreetyjha/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/supreetyjha/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/supreetyjha/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/supreetyjha/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/supreetyjha/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/supreetyjha/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -200,6 +202,7 @@
 | [0056-merge-intervals](https://github.com/supreetyjha/leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/supreetyjha/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/supreetyjha/leetcode/tree/master/0455-assign-cookies) |
+| [1096-brace-expansion-ii](https://github.com/supreetyjha/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/supreetyjha/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/supreetyjha/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/supreetyjha/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -280,6 +283,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/supreetyjha/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1096-brace-expansion-ii](https://github.com/supreetyjha/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/supreetyjha/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/supreetyjha/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -296,6 +300,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/supreetyjha/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/supreetyjha/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -323,6 +328,7 @@
 | [0739-daily-temperatures](https://github.com/supreetyjha/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/supreetyjha/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/supreetyjha/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/supreetyjha/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
